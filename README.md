@@ -1,16 +1,26 @@
-## Hi there 👋
+# Keven Espinal Hazim
 
-<!--
-**KevenEspinal/KevenEspinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Focusing
 
-Here are some ideas to get you started:
+Undergraduate student at the University of Rhode Island, pursuing a double major in Electrical Engineering and German alongside a minor in Computer Science. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+**Software:** C++, C#, Java, Python, MATLAB, LaTeX, HTML, CSS, Linux (WSL), ROS2, Git Bash
+**Hardware:** ESP32, Arduino IDE, Bluetooth Low Energy (NimBLE), TFT displays, I2C LCD screens, matrix keypads
+
+### 🚀 Projects
+**Custom Hardware Control Hub**
+Developed a physical desktop control device using an ESP32, TFT display, and rotary encoder. The system uses Bluetooth Low Energy and a C# host listener to manage media, system monitors, and application shortcuts.
+
+**Smart Door Lock Prototype**
+Engineered a two-step authentication lock combining an ESP32, matrix keypad, and relay module with iOS Shortcuts and Face ID verification.
+
+**3D Trajectory Interception Model**
+Created a kinematic trajectory model solving non-linear systems in MATLAB, fully typeset in LaTeX.
+
+### 🏆 Achievements & Involvement
+**First Place Winner:** University of Rhode Island Cybersecurity Event
+**Member:** URI Autonomous Racing Car Club (ROS2 and C++)
+
+### 📫 Connect
+[LinkedIn]([https://linkedin.com/in/](https://www.linkedin.com/in/keven-espinal-a6265331b/)) | [Personal Portfolio](https://www.kevenespinal.com)
