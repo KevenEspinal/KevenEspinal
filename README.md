@@ -5,8 +5,7 @@
 Undergraduate student at the University of Rhode Island, pursuing a double major in Electrical Engineering and German alongside a minor in Computer Science. 
 
 ### 🛠️ Technical Skills
-**Software:** C++, C#, Java, Python, MATLAB, LaTeX, HTML, CSS, Linux (WSL), ROS2, Git Bash
-**Hardware:** ESP32, Arduino IDE, Bluetooth Low Energy (NimBLE), TFT displays, I2C LCD screens, matrix keypads
+**Software:** C++, C#, Java, Python, MATLAB, LaTeX, HTML, CSS, Linux (WSL), ROS2
 
 ### 🚀 Projects
 **Custom Hardware Control Hub**
